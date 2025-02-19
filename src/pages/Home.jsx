@@ -23,7 +23,7 @@ function Home() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          User Directory
+          User Explorer
         </motion.h1>
         <motion.div
           className="relative max-w-md mx-auto mb-12"

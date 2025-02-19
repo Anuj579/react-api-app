@@ -4,7 +4,7 @@ A simple and elegant user directory web application built with React, Tailwind C
 
 ## 🚀 Live Demo
 
-🔗 Live Link (Replace with your deployment URL)
+🔗 Live Link - [Click here](https://reactuserexplorer.netlify.app/)
 
 ## 📸 Screenshots
 
@@ -39,9 +39,7 @@ A simple and elegant user directory web application built with React, Tailwind C
 │   ├── Home.jsx
 │   ├── Details.jsx
 │   ├── Layout.jsx
-│-- /components
 │-- App.jsx
-│-- index.js
 ```
 
 ## 📦 Installation & Setup
