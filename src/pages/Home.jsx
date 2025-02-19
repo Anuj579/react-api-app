@@ -14,6 +14,13 @@ function Home() {
       .catch((err) => console.error(err))
   }, [])
 
+  if (users.length === 0)
+    return (
+      <div className="flex justify-center items-center h-screen bg-gradient-to-br from-gray-900 to-gray-800">
+        <div className="animate-spin rounded-full h-24 w-24 border-t-2 border-b-2 border-teal-400"></div>
+      </div>
+    )
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white">
       <div className="container mx-auto px-4 py-10">
