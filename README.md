@@ -1,6 +1,6 @@
-# 📘 User Directory
+# 📘 User Explorer
 
-A simple and elegant user directory web application built with React, Tailwind CSS, and Framer Motion. It fetches user data from an API and allows searching and viewing user details.
+A simple and elegant user explorer web application built with React, Tailwind CSS, and Framer Motion. It fetches user data from an API and allows searching and viewing user details.
 
 ## 🚀 Live Demo
 
